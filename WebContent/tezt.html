@@ -1,0 +1,23 @@
+<html><head><title></title></head>
+
+<body onload="ons()">
+<ul id="parent">
+<li>a</li>
+<li>b</li>
+<li>c</li>
+</ul>
+
+
+</body>
+<script>
+ function ons(){
+ var ul = document.getElementById('parent');
+ var lis = ul.getElementsByTagName('li');
+ for(var i=0;i<lis.length;i++){
+ lis[i].onclick = function(){
+ alert(this.innerHTML);
+ }
+ } 
+ }
+</script>
+</html> 

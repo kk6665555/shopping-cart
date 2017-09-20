@@ -1,0 +1,155 @@
+.aq56{
+	
+	
+  	float:left;
+ 	margin-left:80%;
+   
+    
+
+}
+.ac86{
+	position: absolute;
+	
+	
+}
+.DIV_CHILD{
+		position: absolute;
+	margin-bottom:10px;
+    padding-left:10px
+    width: 200px;
+    height: 100px;
+}
+.aq57{
+	
+		float:left;
+	color: #337ab7;
+}
+.aq58{
+	float:left;
+	color: #337ab7;
+
+
+}
+    
+    #toparea{
+        
+         background-color: 	#FFFFFF;
+         
+      
+
+    }
+    
+   
+    
+    #imgright{
+        background-image: url( 'assets/plugins/parallax-slider/img/bg.jpg' );
+         float: right;
+         padding-right:10%;
+         width: 100%;
+        height: 100%;
+       
+    }
+   
+    
+    
+#w96{
+    width:10%;
+    margin-left:5%;
+    margin-top:3%;
+}    
+
+#w97{
+    width:10%;
+    margin-left:5%;
+    margin-top:0px;
+}    
+    
+    #indexh3{
+    border-bottom: 2px solid #72c02c;
+    
+    color: #585f69;
+    margin: 0 0 -2px 0;
+     
+    display: inline-block;
+    text-shadow: 0 0 1px #f6f6f6;
+    font-size: 24px;
+    font-family: inherit;
+  
+    
+}
+
+#dropdownmenu{
+      
+    border-top: solid 2px #72c02c;
+    border-bottom: solid 2px #687074;
+
+    top: 100%;
+    right: 10px;
+    margin: 2px 0 0;
+    list-style: none;
+    background-color: #fff;
+        background-clip: padding-box;
+}
+   
+#navbar-header.a:link
+        {
+            color: 	#00AA00;
+        }
+        /* 已連結過 */
+        a:visited
+        {
+            color: 	#444444;
+        }
+        /* 滑鼠移至連結 */
+        a:hover
+        {
+            color: #00AA00;
+        }
+        /* 選擇的連結 */
+        a:active
+        {
+            color:#00AA00;
+        }   
+        
+#hr.style-four {
+    
+    border: 0;
+    padding-top:0px;
+    box-shadow: inset 0 5px 5px -5px rgba(0,0,0,0.6);
+}
+
+.loginbar li.devider {
+    top: -1px;
+    padding: 0;
+    font-size: 8px;
+    position: relative;
+    margin: 0 6px 0 2px;
+    font-family: Tahoma;
+    border-right: solid 1px #bbb;
+}
+.loginbar li {
+    display: inline;
+    list-style: none;
+    padding-bottom: 15px;
+}
+.li {
+    color: #555;
+    line-height: 1.6;
+}
+.loginbar i.icon-globe {
+    color: #bbb;
+    font-size: 13px;
+    margin: 3px 3px 0 0;
+    display: inline-block;
+    width: 1.25em;
+    text-align: center;
+    font-family: FontAwesome;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: inherit;
+}
+
+#slider-container{
+    background:url("images/bg.jpg")
+}
+   

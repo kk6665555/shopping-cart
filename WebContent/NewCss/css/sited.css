@@ -1,0 +1,168 @@
+
+  
+#TaiwanMap{
+    
+    
+    width: 500px;
+    height: auto;
+    
+}
+
+.nsaleft{
+    margin-left:20%;
+    margin-top:5%;
+    box-sizing: border-box;
+    display: block;
+    width: 380px;
+    padding: 10px 25px 22px 30px;
+    height: auto;
+    float: left;
+    background-color: rgba(0,0,0,0.5);
+    font-size: 16px;
+}
+.nsaleft h1{
+    color: #F60;
+    padding: 8px 0px 14px 0px;
+    font-size: 190%;
+}
+
+.nsaleft p{
+    width: 100%;
+    font-size: 100%;
+    line-height: 1.8em !important;
+    padding: 4px 0px 4px 0px !important;
+    color:#FFFFFF;
+    
+}
+.mapset{
+     float:right;
+    margin-right:5%;
+     margin-top:5%;
+}
+.mapset .map_dis1 {
+   display: block;
+    position: absolute;
+    z-index: 1;
+    width: 35px;
+    height: auto;
+    top: 20px;
+    left: 356px;
+    
+}
+.mapset .map_dis2 {
+   display: block;
+    position: absolute;
+    z-index: 1;
+    width: 80px;
+    height: auto;
+    top: 80px;
+    left: 264px;
+    
+}
+.mapset .map_dis3 {
+       display: block;
+    position: absolute;
+    z-index: 1;
+    width: 16px;
+    height: auto;
+    top: 157px;
+    left: 290px;
+    
+}
+.mapset .map_dis4 {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 29px;
+    height: auto;
+    top: 187px;
+    left: 262px;
+}
+.mapset .map_dis5 {
+     display: block;
+    position: absolute;
+    z-index: 1;
+    width: 29px;
+    height: auto;
+    top: 170px;
+    left: 197px;
+}
+
+.mapset .map_dis6 {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 44px;
+    height: auto;
+    top: 211px;
+    left: 233px;
+}
+.mapset .map_dis7 {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 27px;
+    height: auto;
+    top: 228px;
+    left: 258px;
+}
+.mapset .map_dis8 {
+   display: block;
+    position: absolute;
+    z-index: 1;
+    width: 70px;
+    height: auto;
+    top: 297px;
+    left: 211px;
+}
+.mapset .map_dis9 {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 25px;
+    height: auto;
+    top: 48px;
+    left: 396px;
+}
+.mapset .map_dis10 {
+   display: block;
+    position: absolute;
+    z-index: 1;
+    width: 64px;
+    height: auto;
+    top: 153px;
+    left: 299px;
+}
+.mapset .map_dis11 {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 51px;
+    height: auto;
+    top: 149px;
+    left: 328px;
+}
+.mapset .map_dis12 {
+       display: block;
+    position: absolute;
+    z-index: 1;
+    width: 31px;
+    height: auto;
+    top: 150px;
+    left: 111px;
+}
+.mapset .map_dis13 {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    width: 17px;
+    height: auto;
+    top: 61px;
+    left: 187px;
+}
+.map_content2{
+    
+    position: relative;
+    z-index: 1;
+}
+
